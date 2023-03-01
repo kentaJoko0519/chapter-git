@@ -1,0 +1,94 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.list-box{
+  width: 960px;
+  margin: 50px auto;
+}
+
+.list-item:nth-child(odd){
+  background-color: #DDD;
+  padding: 20px;
+}
+
+.list-item:nth-child(even){
+  padding: 20px;
+}
+
+.box{
+  width: 960px;
+  height: 680px;
+  margin: 0 auto 50px;
+  display: flex;
+  flex-wrap:wrap;
+
+}
+
+.box1{
+  height: 200px;
+  width: 30%;
+  background-color:orange;
+  margin-right: 5%;
+  margin-bottom: 40px
+}
+
+.box2{
+  height: 200px;
+  width: 30%;
+  background-color:yellow;
+  margin-right: 5%;
+  margin-bottom: 40px
+}
+
+.box3{
+  height: 200px;
+  width: 30%;
+  background-color:yellow;
+}
+
+.box4{
+  height: 200px;
+  width: 30%;
+  background-color:yellow;
+  margin-right: 5%;
+  margin-bottom: 40px
+}
+
+.box5{
+  height: 200px;
+  width: 30%;
+  background-color:orange;
+  margin-right: 5%;
+  margin-bottom: 40px
+}
+
+.box6{
+  height: 200px;
+  width: 30%;
+  background-color:yellow;
+}
+
+.box7{
+  height: 200px;
+  width: 30%;
+  background-color:yellow;
+  margin-right: 5%;
+  margin-bottom: 40px
+}
+
+.box8{
+  height: 200px;
+  width: 30%;
+  background-color:yellow;
+  margin-right: 5%;
+  margin-bottom: 40px
+}
+
+.box9{
+  height: 200px;
+  width: 30%;
+  background-color:orange;
+}
